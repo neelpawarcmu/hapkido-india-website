@@ -1,0 +1,22 @@
+{
+  "name": "hapkido-federation-india-website",
+  "version": "1.0.0",
+  "description": "Official website for Hapkido Federation India",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080 -o",
+    "dev": "npx http-server -p 8080 -o -c-1"
+  },
+  "keywords": [
+    "hapkido",
+    "martial-arts",
+    "india",
+    "federation"
+  ],
+  "author": "Hapkido Federation India",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
+
